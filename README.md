@@ -1,1 +1,1 @@
-I did a form application with C# that you can create dynamic stack.
+I did a windows form application that you can create dynamic stack.
